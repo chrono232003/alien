@@ -1,0 +1,69 @@
+error with Monmouth County
+error with The Trindade Island\'s UFO
+error with 1974 Abduction Event
+error with Kelly Cahill Abduction
+error with UFO sightings in Iran
+error with Falcon Lake incident
+error with The Hague UFO sighting
+error with Old-Saybrook UFO incident
+populateDB.py:36: Warning: (1265, "Data truncated for column 'image' at row 1")
+  cur.execute(sql)
+error with Tananarive UFO incident
+error with Mass UFO sighting
+error with D.C. UFO incident
+error with 2018 California UFO sighting
+error with Vashon Island incident
+error with America West Airlines Flight 564
+error with Manbhum UFO sighting
+error with Michigan Swamp Gas Sightings
+error with Titograd UFO incidents
+error with Catalina Island UFO
+error with 2011 Vancouver UFO sighting
+error with Hangzou UFO sighting
+error with Ufology Research of Manitoba
+error with The Tinley Park Lights
+error with The Judy Doraty Abduction
+error with Erasmuskloof Sighting
+error with Oldenburg UFO Encounter
+error with 2015 Gorakhpur UFO sighting
+error with Graaff-Reinet sighting
+error with Ubatuba UFO Explosion
+error with Gulf of Mexico UFO Encounter
+error with New Mexico, UFO incident
+error with Warrenton Sighting
+error with 1976 Canary Isles sightings
+error with Prince Christian UFO sighting
+error with Warden Sighting
+error with Portage County UFO Chase
+error with 2006 O\'Hare International Airport UFO sighting
+error with 2018 Arizona UFO sightings
+error with Sasolburg Sighting
+error with Coyame UFO incident
+error with Skylab 3 UFO Encounter
+error with Autumn 1954 European UFO wave
+error with Southern Illinois UFO incident
+error with Colorado UFO sighting
+error with 1965 Craft Landing
+error with Stanford Abduction
+error with 2007 Kolkata UFO sighting
+error with Prescott Sightings
+error with Fukuoka Incident
+error with Baviaanspoort Sighting
+error with STS-80 incidents
+error with 2014 Texas UFO sightings
+error with 2018 Ireland UFO sighting
+error with ufology and pseudoscience
+error with Kensington PEI Sighting
+error with Airplane Disc Sighting
+error with 1979 Mindalore Incident
+error with La Pampa Province sighting
+error with Portage County UFO chase
+error with Middelburg Witbank Sighting
+error with Booysens Sighting
+error with Cisco Grove Encounter
+error with Tierpoort Sighting
+error with 1952 Salem, Massachusetts UFO incident
+error with Delphos UFO Incident
+error with Ariel UFO incident
+error with Clarenville UFO Sighting
+error with The RB-47 UFO Encounter
